@@ -1,0 +1,43 @@
+.mundo{
+    background-color: green;
+    width: 400px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.mundo1{
+    background-color: white;
+    width: 300px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.mundo2{
+    background-color: goldenrod;
+     width:300px;
+     height: 400px;
+     margin-top: 30px;
+     margin-left: 20px;
+     margin-right: 10px;
+     margin-bottom: 20px;
+     text-align: center;
+   color: blue;
+   font-size: 40px;
+}
+
+.mundo3{
+    background-color: darkorange;
+    width: 240px;
+    height: 40px;
+    color: aquamarine;
+    font-size: 20px;
+}
